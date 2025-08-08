@@ -8,7 +8,7 @@
 * Date:         Aug 2025
 *---------------------------------------------------------------------*
 REPORT ZSTRING_0PE.
-
+ 
 DATA: lv_val1 TYPE char20 VALUE 'MY FAVOURITE',
       lv_val2 TYPE char30 VALUE 'subject is abap',
       lv_res  TYPE char60,
