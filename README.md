@@ -1,11 +1,11 @@
-# 🚀 ABAP Practice Programs
+# ABAP Practice Programs
 
 This repository contains my ABAP practice programs developed during my SAP ABAP training at **BIPARD Skill Park, Patna** and personal learning journey.  
 It includes examples of Reports, Data Dictionary usage, and other SAP ABAP concepts.
 
 ---
 
-## 📌 Programs List
+## Programs List
 
 ### 1. **abap-string-split.abap** – String Split Example
 - Demonstrates the use of the `SPLIT` statement to break a sentence into words.
@@ -27,7 +27,7 @@ It includes examples of Reports, Data Dictionary usage, and other SAP ABAP conce
   - ALV-style formatted output.
 - [View Code](ZSALES_REPORT.abap)
 
-## 🛠 Technologies Used
+## Technologies Used
 - **ABAP Programming**
 - SAP R/3
 - Data Dictionary (Tables, Structures, Domains, Data Elements)
@@ -46,6 +46,6 @@ It includes examples of Reports, Data Dictionary usage, and other SAP ABAP conce
 ## 👤 Author
 **Prawin Kumar Mandal**  
 SAP Global Certified – ABAP Developer  
-📌 [LinkedIn](https://www.linkedin.com/in/prawin-mandal/) | [GitHub](https://github.com/prawin81)
+[LinkedIn](https://www.linkedin.com/in/prawin-mandal/) | [GitHub](https://github.com/prawin81)
 
 ---
