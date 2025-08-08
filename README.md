@@ -7,7 +7,7 @@ It includes examples of Reports, Data Dictionary usage, and other SAP ABAP conce
 
 ## 📌 Programs List
 
-### 1. **ZSTRING_0PE** – String Split Example
+### 1. **abap-string-split.abap** – String Split Example
 - Demonstrates the use of the `SPLIT` statement to break a sentence into words.
 - Example:
   - Input: `"subject is abap"`
@@ -46,6 +46,6 @@ It includes examples of Reports, Data Dictionary usage, and other SAP ABAP conce
 ## 👤 Author
 **Prawin Kumar Mandal**  
 SAP Global Certified – ABAP Developer  
-📌 [LinkedIn](https://linkedin.com/in/prawin89) | [GitHub](https://github.com/prawin81)
+📌 [LinkedIn](https://www.linkedin.com/in/prawin-mandal/) | [GitHub](https://github.com/prawin81)
 
 ---
