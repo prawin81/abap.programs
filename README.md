@@ -17,7 +17,7 @@ It includes examples of Reports, Data Dictionary usage, and other SAP ABAP conce
     is
     abap
     ```
-- [View Code](ZSTRING_0PE.abap)
+- [View Code](abap-string-split.abap)
 
 ---
 
