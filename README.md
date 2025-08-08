@@ -21,23 +21,6 @@ It includes examples of Reports, Data Dictionary usage, and other SAP ABAP conce
 
 ---
 
-### 2. **ZSALES_REPORT** – Sales Report
-- Generates sales data output from a custom sales table.
-- Features:
-  - Selection screen to filter by Sales Organization and Date Range.
-  - ALV-style formatted output.
-- [View Code](ZSALES_REPORT.abap)
-
----
-
-### 3. **ZINVENTORY_REPORT** – Inventory Management Report
-- Displays stock details with Material ID, Description, and Quantity.
-- Features:
-  - Filter by Material Type.
-  - Dynamic sorting.
-- [View Code](ZINVENTORY_REPORT.abap)
-
----
 
 ## 🛠 Technologies Used
 - **ABAP Programming**
